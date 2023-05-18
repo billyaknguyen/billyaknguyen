@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Billy Nguyen <img align="center" src="https://www.svgrepo.com/show/420329/anime-away-face.svg" width= "60" height= "60"/></h1>
-<h2 align="center"> Oui, a full-stack developer from Montreal, Quebec, Canada <img align="center" src="https://www.svgrepo.com/show/237219/canada.svg" width= "50" height ="50" /></h2>
+<h1 align="center">Hi, I'm Billy Nguyen <img align="center" src="https://www.svgrepo.com/show/420329/anime-away-face.svg" width= "60" height= "60" style="vertical-align: middle"/></h1>
+<h2 align="center"> Oui, a full-stack developer from Montreal, Quebec, Canada <img align="center" src="https://www.svgrepo.com/show/237219/canada.svg" width= "50" height ="50" style="vertical-align: middle" /></h2>
 
 <h2 align="left">About Me </h2>
 
