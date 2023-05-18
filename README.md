@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Billy Nguyen <img align="center" src="https://www.svgrepo.com/show/420329/anime-away-face.svg" width= "60" height= "60"/></h1>
+<h2 align="center"> Oui, a full-stack developer from Montreal, Quebec, Canada <img align="center" src="https://www.svgrepo.com/show/237219/canada.svg" width= "50" height ="50" /></h2>
 
-<!--
-**billyaknguyen/billyaknguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">About Me </h2>
 
-Here are some ideas to get you started:
+- 👨‍💼 I am currently seeking job opportunities that will allow me to apply my skills and make a meaningful impact on the world through my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I’m currently working on my cryptocurrency simulator [CryptoPluie](https://cryptopluie.onrender.com/)
+
+- 🤔 I’m currently learning **Typescript and PostgreSQL**
+
+- 📫 How to reach me **billyaknguyen@gmail.com or https://www.linkedin.com/in/billyaknguyen/**
+
+<h2 align="left">My Projects</h2>
+<p align="left"> 
+<a href="https://github.com/billyaknguyen/CryptoPluie" target="blank"> <img align="center" src="https://media.discordapp.net/attachments/899929905318486046/1094149965976174672/CryptoPluie_Billy_Nguyen_Logo.png?width=871&height=871" alt="crypto website" height="100" width= "100">Cryptocurrency Exchange Platform Simulator</img> </a>
+</p>
+
+<h2 align="left">Languages</h2>
+<p align="left">
+<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+
+
+<h2 align="left">Frontend</h2>
+<p align="left"> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354259/react.svg" alt="react" width="40" height="40"/> </a>
+</p>
+
+<h2 align="left">Backend</h2>
+<p align="left"> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/></a>
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=9Gfx4Dfxl0JK&format=png" alt="express" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="nodejs" width="40" height="40"/> </a> 
+</p>
+<h2 align="left">Connect with me</h2>
+<p align="left">
+<a href="https://linkedin.com/in/billyaknguyen" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="billyaknguyen" height="50" width="50" /></a>
+</p>
