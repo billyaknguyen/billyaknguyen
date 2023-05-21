@@ -32,7 +32,7 @@
 <h2 align="left">Backend</h2>
 <p align="left"> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/></a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=9Gfx4Dfxl0JK&format=png" alt="express" width="40" height="40"/> </a>
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 <h2 align="left">Connect with me</h2>
