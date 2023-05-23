@@ -14,6 +14,7 @@
 <h2 align="left">My Projects</h2>
 <p align="left"> 
 <a href="https://github.com/billyaknguyen/CryptoPluie" target="blank"> <img align="center" src="https://media.discordapp.net/attachments/899929905318486046/1094149965976174672/CryptoPluie_Billy_Nguyen_Logo.png?width=871&height=871" alt="crypto website" height="100" width= "100">Cryptocurrency Exchange Platform Simulator</img> </a>
+<a href="https://github.com/billyaknguyen/Ecommerce-Project" target="blank"> <img align="center" src="https://cdn.discordapp.com/attachments/899929905318486046/1110477371687059486/EM.png" alt="crypto website" height="100" width= "100">Electronics Ecommerce Website</img> </a>
 </p>
 
 <h2 align="left">Languages</h2>
