@@ -22,6 +22,7 @@
 <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 
