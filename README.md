@@ -3,7 +3,7 @@
 
 <h2 align="left">About Me </h2>
 
-- 👨‍💼 I am currently seeking job opportunities that will allow me to apply my skills and make a meaningful impact on the world.
+- 👨‍💼 I am currently seeking internships/job opportunities that will allow me to apply my skills and make a meaningful impact on the world.
 
 - 👨‍💻 I’m currently working on my cryptocurrency simulator [CryptoPluie](https://cryptopluie.onrender.com/)
 
